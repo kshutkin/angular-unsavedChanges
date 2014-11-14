@@ -33,8 +33,5 @@
     "angular-scenario": "~1.2.2",
     "jquery": "~2.0.3",
     "angular-translate": "latest"
-  },
-  "resolutions": {
-    "angular": "~1.2.5"
   }
 }
